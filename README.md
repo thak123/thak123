@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gaurish Thakkar</h1>
-<h3 align="center">PhD candidate at University of Zagreb</h3>
+<h3 align="center">PhD candidate at University of Zagreb (Institute of Linguistics), ESR 15 CLEOPATRA ITN </h3>
 
-- 🔭 I’m currently working on **XL Sentiment Analysis**
+- 🔭 I’m currently working on **XL Sentiment Analysis for Low-resourced Languages**
 
 - 🌱 I’m currently learning **AllenNLP**
 
 - 👯 I’m looking to collaborate on **Sentiment Analysis/ Opinion Role Labelling**
 
-- 🤝 I’m looking for help with **MTL**
+- 🤝 I’m looking for help with **MTL, XL-Knowledge Transfer**
 
-- 💬 Ask me about **Natural Language Processing,**
+- 💬 Ask me about **Natural Language Processing**
 
 - 📫 How to reach me **thak123@gmail.com**
 
