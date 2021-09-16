@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **XL Sentiment Analysis for Low-resourced Languages**
 
-- 🌱 I’m currently learning **AllenNLP**
 
 - 👯 I’m looking to collaborate on **Sentiment Analysis/ Opinion Role Labelling**
 
