@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on **LLMs/HPCs**
 
-- 👯 I usually work on **Sentiment Analysis/Dataset Creation for Low-resourced Languages**
-- 👯 I sometimes work on **Twitter/Multimodal NLP/Multi-lingual NLP**
+-  I work on **Sentiment Analysis/Dataset Creation for Low-resourced Languages**
+-  I work on **Twitter/Multimodal NLP/Multi-lingual NLP**
 - 💬 I teach **Natural Language Processing**
 
 - 📫 How to reach me **thak123@gmail.com**
